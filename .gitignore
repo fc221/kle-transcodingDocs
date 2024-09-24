@@ -3,3 +3,5 @@ node_modules
 license
 temp
 *.exe
+.idea
+.vitepress/cache
