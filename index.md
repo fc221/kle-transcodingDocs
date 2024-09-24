@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "Transcodeing Docs"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Kle-Transcoding"
+  tagline: 永久免费、零门槛开箱即用的视频转码系统
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Download
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Issue
+      link: https://github.com/fc221/kle-transcodingDocs/issues
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🎉
+    title: 永久免费
+    details: 所有功能永久免费使用，不论您是新手还是专业用户，都可以轻松上手，享受平台全套功能与服务。
+  - icon: 🕶
+    title: 所见即所得
+    details: 水印压制、水印去除均可实时预览处理效果，确保您在每一步操作中都能准确掌控最终结果。
+  - icon: 🚀
+    title: 分布式处理
+    details: 借助分布式技术，实现高效的视频下载与处理，确保在处理大规模视频时依然保持高性能与稳定性。
 ---
 
