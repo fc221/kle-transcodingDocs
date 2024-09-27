@@ -3,14 +3,15 @@
 layout: home
 
 hero:
-  name: "Kle-Transcoding"
+  name: Kle-Transcoding
   tagline: 永久免费、零门槛开箱即用的视频转码系统
+  image: /image/upload-page.png
   actions:
     - theme: brand
-      text: Download
-      link: /markdown-examples
+      text: 📥 Download
+      link: /download
     - theme: alt
-      text: Issue
+      text: 📝 Issue
       link: https://github.com/fc221/kle-transcodingDocs/issues
 
 features:
