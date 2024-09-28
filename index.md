@@ -8,10 +8,10 @@ hero:
   image: /image/upload-page.png
   actions:
     - theme: brand
-      text: 📥 Download
-      link: /download
+      text: 📥 下载
+      link: /guide/start#下载链接
     - theme: alt
-      text: 📝 Issue
+      text: 📝 反馈
       link: https://github.com/fc221/kle-transcodingDocs/issues
 
 features:

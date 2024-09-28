@@ -9,19 +9,22 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Download", link: "/download" },
+      { text: "指南", link: "/guide/start" },
       { text: "使用协议", link: "/agreement" },
       // { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
-      // {
-      //   text: 'Examples',
-      //   items: [
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'Runtime API Examples', link: '/api-examples' }
-      //   ]
-      // }
+      {
+        text: '指南',
+        items: [
+          { text: '开始', link: '/guide/start' },
+        ]
+      },
+      {
+        text: '使用协议',
+        link: "/agreement"
+      }
     ],
 
     socialLinks: [
